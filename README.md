@@ -19,10 +19,10 @@ https://www.youtube.com/@XionCoding
 
 <br>
 
-## 🌱 Front-end Stack
+### 🌱Front-end Stack
 
 <br>
-
+<br>
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -30,8 +30,11 @@ https://www.youtube.com/@XionCoding
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
+  
+<br>
 <br>
 
+  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
@@ -39,10 +42,14 @@ https://www.youtube.com/@XionCoding
 <img src="https://img.shields.io/badge/reduxtoolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 
 <br>
+<br>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XionWCFM)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XionWCFM)](https://github.com/anuraghazra/github-readme-stats)
 
