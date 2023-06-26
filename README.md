@@ -2,9 +2,13 @@
 
 <br>
 
+Persnal Blog
+
+https://devxion-blog.vercel.app
+
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 
-https://xionwcfm.tistory.com/
+https://xionwcfm.tistory.com
 
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 
