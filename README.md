@@ -8,10 +8,10 @@ Hello and welcome to my GitHub profile! I am Giljong Yu, a devoted Frontend Deve
 
 I am proficient in a wide range of technologies that empower modern web development. My toolkit includes but is not limited to:
 
-- **Frontend Frameworks/Libraries:** I extensively use ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) and ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) to create interactive and performant user interfaces.
-- **Languages:** My primary coding language is ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white), supplemented with ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) for broader application support.
-- **Styling:** I style applications using ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) and ensure responsive, aesthetically pleasing layouts.
-- **Build Tools & Package Managers:** I am adept at optimizing build processes using ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) and managing dependencies with ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white).
+- **Frontend Frameworks/Libraries:** I extensively use ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) and ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) to create interactive and performant user interfaces. My commitment to user experience and modern web standards drives my choice of frameworks and libraries.
+- **Languages:** My primary coding language is ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white), supplemented with ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) for broader application support. TypeScript's static typing ensures that my code is not only robust but also easier to maintain.
+- **Styling:** I style applications using ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) and ensure responsive, aesthetically pleasing layouts. The utility-first approach of Tailwind CSS deeply resonates with me, as it promotes productivity and flexibility in design.
+- **Build Tools & Package Managers:** I am adept at optimizing build processes using ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) and managing dependencies with ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white). Additionally, ![esbuild](https://img.shields.io/badge/esbuild-FFD43B?style=for-the-badge&logo=esbuild&logoColor=black) is a tool I frequently leverage for its exceptional speed and simplicity, which aligns with my focus on efficiency and performance.
 
 [![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXionWCFM%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) Celebrating every interaction on my profile!
 
@@ -19,7 +19,7 @@ I am proficient in a wide range of technologies that empower modern web developm
 
 ## 💼 Career
 
-My current role at QuokkaCrew involves leading the frontend development for `yeonpick`, a service designed to enrich user experience through seamless webviews, utilizing the power of ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) and ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white). Here, I not only develop but also strategize to enhance our product's frontend capabilities.
+My current role at QuokkaCrew involves leading the frontend development for `yeonpick`, a service designed to enrich user experience through seamless webviews, utilizing the power of ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) and ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white).
 
 ---
 
