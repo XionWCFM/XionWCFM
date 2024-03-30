@@ -45,8 +45,8 @@ I am an active participant in a Technical SEO study group, focusing on leveragin
 
 Through my [technical blog](https://xionwcfm.tistory.com), I have reached over 100,000 total visitors, a milestone that underscores my ability to demystify complex technical topics. Noteworthy mentions include:
 
-- **[Yarn Berry Moves to Version 4: Navigating Through the Ugly Truth of Zero-install](https://xionwcfm.tistory.com/452):** An in-depth look into the evolution of Yarn Berry and the implications of Zero-install features.
-- **[From Concept to Implementation: React Animate Presence](https://xionwcfm.tistory.com/449):** A comprehensive guide that walks through the implementation of exit animations in React, illuminating the path from theory to practice.
+- **[Yarn Berry Moves to Version 4: Navigating Through the Ugly Truth of Zero-install](https://xionwcfm.tistory.com/452):** 
+- **[From Concept to Implementation: React Animate Presence](https://xionwcfm.tistory.com/449):** 
 
 ---
 
