@@ -25,6 +25,8 @@ I enjoy working with frontend development productivity tools. Below is a list of
 
 ## 💼 Career
 
+### [QuokkaCrew](https://yeonpick.kr)
+
 I work as a frontend developer at a company called Quokka Crew. I am currently developing an application called Yeonpick, which can be checked at [here](https://yeonpick.kr). In this application, I am responsible for developing the webview part and the project is made up of Next.js, TypeScript, and Yarn Berry.
 
 At this place, I have been tasked with optimizing CI/CD times, developing common components, minimizing build times, logging user actions, developing numerous features, and improving performance.
@@ -35,15 +37,15 @@ At this place, I have been tasked with optimizing CI/CD times, developing common
 
 ### [XionHub Project](https://github.com/xionhub/xion)
 
-Xionhub is my most beloved project. 
+Xionhub is my most beloved project.🥰 
 
 This project is organized as a monorepo and provides all the shared configs and plugins for eslint, prettier, TypeScript, which I frequently use, along with utility functions. Additionally, you can find the design tokens I built myself and the React component design system based on them.
 
 ## 🧾 Study
 
-### Frontend Article Study
+### [Frontend Article Study](https://github.com/frontend-article-study)
 
-[Frontend Article Study](https://github.com/frontend-article-study)  is a study group that I lead. 
+Frontend Article Study is a study group that I lead. 
 
 This study has been active since August 2023, continuing to the present with 15 team members actively participating. The purpose of this study is to facilitate exchange among frontend developers.
 
@@ -56,11 +58,9 @@ This study started in March 2024 and focuses on learning challenging or easily o
 
 ---
 
-## ✍️ Tech Blog
+## ✍️ [Tech Blog](https://xionwcfm.tistory.com)
 
 I run a tech blog that has accumulated 100,000 visitors with an average of 500 daily visitors. 
-
-My blog can be checked at the following link[technical blog](https://xionwcfm.tistory.com). 
 
 Below is a collection of articles from my tech blog that I love or that have received a lot of love.
 
