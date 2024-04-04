@@ -25,23 +25,25 @@ I enjoy working with frontend development productivity tools. Below is a list of
 
 ## 💼 Career
 
-My current role at QuokkaCrew involves leading the frontend development for `yeonpick`, a service designed to enrich user experience through seamless webviews, utilizing the power of ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) and ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white).
+I work as a frontend developer at a company called Quokka Crew. I am currently developing an application called Yeonpick, which can be checked at [here](https://yeonpick.kr). In this application, I am responsible for developing the webview part and the project is made up of Next.js, TypeScript, and Yarn Berry.
+
+At this place, I have been tasked with optimizing CI/CD times, developing common components, minimizing build times, logging user actions, developing numerous features, and improving performance.
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Projects
 
 ### XionHub Project
 
 Dive into [XionHub](https://github.com/xionhub/xion), a monorepo that serves as the cornerstone of my development philosophy. It is a comprehensive suite that includes design systems and utility libraries meticulously crafted to support scalable web application development. These projects, available via npm, stand as a testament to my dedication to the community, featuring automated CI through GitHub Actions to ensure the pinnacle of code quality.
 
-### Community Leadership & Studies
+## 🧾 Study
 
-#### Frontend Article Study
+### Frontend Article Study
 
 I proudly lead the [Frontend Article Study](https://github.com/frontend-article-study) group, where I guide and collaborate with over 15 members to dissect and understand the nuances of the latest web technologies. Our collective aim is to stay ahead of industry trends and contribute back to the tech community.
 
-#### Technical SEO Study
+### Technical SEO Study
 
 I am an active participant in a Technical SEO study group, focusing on leveraging SEO techniques to enhance web content visibility on Google. This initiative, which started on March 20, 2024, highlights my commitment to understanding and applying the intricacies of web optimization.
 
