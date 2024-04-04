@@ -10,19 +10,6 @@ please feel free to email me at giljongyudev@gmail.com. You're welcome anytime.
 
 ---
 
-## 🛠 Tech Stack & Tools
-
-I enjoy working with frontend development productivity tools. Below is a list of the technology stack I am particularly confident in.
-
-- **Frontend Frameworks/Libraries:**  I primarily use  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) and ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) I often enjoy looking into the source code of these open sources and have a decent understanding of their operating principles at the code level.
-- **Languages:** I love ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white),I aim for strictly type-safe code and do not hesitate to make efforts to achieve it.
-- **Styling:**  I am a fervent fan of the utility-first philosophy of ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) I love the TailwindCSS ecosystem and have even tried building my own design tokens and TailwindCSS plugins.
-- **Build Tools & Package Managers:** I prefer ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) but am not limited to any specific package manager. My choice of build tool is centered around performance and developer experience. I use  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) ![esbuild](https://img.shields.io/badge/esbuild-FFD43B?style=for-the-badge&logo=esbuild&logoColor=black)
-
-[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXionWCFM%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) Celebrating every interaction on my profile!
-
----
-
 ## 💼 Career
 
 ### [QuokkaCrew](https://yeonpick.kr)
@@ -67,6 +54,19 @@ Below is a collection of articles from my tech blog that I love or that have rec
 - **[Yarn Berry Version 4 Released and Zero Install's Unattractiveness](https://xionwcfm.tistory.com/452)**
 - **[From Concept to Implementation of React Animate Presence](https://xionwcfm.tistory.com/449)**
 - **[Javascript Hoisting Deep Dive](https://xionwcfm.tistory.com/245)**
+
+---
+
+## 🛠 Tech Stack & Tools
+
+I enjoy working with frontend development productivity tools. Below is a list of the technology stack I am particularly confident in.
+
+- **Frontend Frameworks/Libraries:**  I primarily use  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) and ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) I often enjoy looking into the source code of these open sources and have a decent understanding of their operating principles at the code level.
+- **Languages:** I love ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white),I aim for strictly type-safe code and do not hesitate to make efforts to achieve it.
+- **Styling:**  I am a fervent fan of the utility-first philosophy of ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) I love the TailwindCSS ecosystem and have even tried building my own design tokens and TailwindCSS plugins.
+- **Build Tools & Package Managers:** I prefer ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) but am not limited to any specific package manager. My choice of build tool is centered around performance and developer experience. I use  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) ![esbuild](https://img.shields.io/badge/esbuild-FFD43B?style=for-the-badge&logo=esbuild&logoColor=black)
+
+[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXionWCFM%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) Celebrating every interaction on my profile!
 
 ---
 
