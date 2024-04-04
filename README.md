@@ -1,6 +1,12 @@
 # Giljong Yu - Frontend Developer
 
-Hello and welcome to my GitHub profile! I am Giljong Yu, a devoted Frontend Developer dedicated to engineering efficient, scalable, and high-quality web applications. My journey is a blend of creativity and a relentless pursuit of excellence in code quality.
+Hello, my name is Yu Gil-jong. I am based in Seoul, South Korea, and work as a front-end developer. 
+
+Before I got into development, I was involved in music, and before that, I wrote. and Now i'm in love with development
+
+I enjoy talking about development. If you'd like to chat or have any requests, 
+
+please feel free to email me at giljongyudev@gmail.com. You're welcome anytime.
 
 ---
 
