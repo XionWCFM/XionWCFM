@@ -35,26 +35,38 @@ At this place, I have been tasked with optimizing CI/CD times, developing common
 
 ### XionHub Project
 
-Dive into [XionHub](https://github.com/xionhub/xion), a monorepo that serves as the cornerstone of my development philosophy. It is a comprehensive suite that includes design systems and utility libraries meticulously crafted to support scalable web application development. These projects, available via npm, stand as a testament to my dedication to the community, featuring automated CI through GitHub Actions to ensure the pinnacle of code quality.
+Xionhub is my most beloved project. 
+
+This project is organized as a monorepo and provides all the shared configs and plugins for eslint, prettier, TypeScript, which I frequently use, along with utility functions. Additionally, you can find the design tokens I built myself and the React component design system based on them.
 
 ## 🧾 Study
 
 ### Frontend Article Study
 
-I proudly lead the [Frontend Article Study](https://github.com/frontend-article-study) group, where I guide and collaborate with over 15 members to dissect and understand the nuances of the latest web technologies. Our collective aim is to stay ahead of industry trends and contribute back to the tech community.
+[Frontend Article Study](https://github.com/frontend-article-study)  is a study group that I lead. 
 
-### Technical SEO Study
+This study has been active since August 2023, continuing to the present with 15 team members actively participating. The purpose of this study is to facilitate exchange among frontend developers.
 
-I am an active participant in a Technical SEO study group, focusing on leveraging SEO techniques to enhance web content visibility on Google. This initiative, which started on March 20, 2024, highlights my commitment to understanding and applying the intricacies of web optimization.
+
+### Technical SEO Study 3
+
+Technical SEO Study 3 is a study group I participated in as a member. 
+
+This study started in March 2024 and focuses on learning challenging or easily overlooked SEO optimization techniques. Through studying and undertaking demo projects, it aims to build SEO skills from the perspective of a frontend developer.
 
 ---
 
-## ✍️ Blog & Writing
+## ✍️ Tech Blog
 
-Through my [technical blog](https://xionwcfm.tistory.com), I have reached over 100,000 total visitors, a milestone that underscores my ability to demystify complex technical topics. Noteworthy mentions include:
+I run a tech blog that has accumulated 100,000 visitors with an average of 500 daily visitors. 
 
-- **[Yarn Berry Moves to Version 4: Navigating Through the Ugly Truth of Zero-install](https://xionwcfm.tistory.com/452):** 
-- **[From Concept to Implementation: React Animate Presence](https://xionwcfm.tistory.com/449):** 
+My blog can be checked at the following link[technical blog](https://xionwcfm.tistory.com). 
+
+Below is a collection of articles from my tech blog that I love or that have received a lot of love.
+
+- **[Yarn Berry Version 4 Released and Zero Install's Unattractiveness](https://xionwcfm.tistory.com/452)**
+- **[From Concept to Implementation of React Animate Presence](https://xionwcfm.tistory.com/449)**
+- **[Javascript Hoisting Deep Dive](https://xionwcfm.tistory.com/245)**
 
 ---
 
