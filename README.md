@@ -33,7 +33,7 @@ At this place, I have been tasked with optimizing CI/CD times, developing common
 
 ## 🚀 Projects
 
-### XionHub Project
+### [XionHub Project](https://github.com/xionhub/xion)
 
 Xionhub is my most beloved project. 
 
