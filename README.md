@@ -1,3 +1,6 @@
+[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXionWCFM%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 # Giljong Yu - Frontend Developer
 
 Hello, my name is Yu Gil-jong. I am based in Seoul, South Korea, and work as a front-end developer. 
@@ -28,6 +31,19 @@ Xionhub is my most beloved project.🥰
 
 This project is organized as a monorepo and provides all the shared configs and plugins for eslint, prettier, TypeScript, which I frequently use, along with utility functions. Additionally, you can find the design tokens I built myself and the React component design system based on them.
 
+### [@xionhub/fsd-prettier](https://github.com/xionhub/fsd-prettier)
+
+🍰Feature sliced design prettier shared configuration
+
+@xionhub/fsd-prettier is a library I created that can be usefully used in projects that comply with Feature-Sliced ​​design.
+
+## 🏅 ETC
+
+### [Teo's Sprint 17 Team 10](https://xionwcfm.tistory.com/454)
+
+Theo's Sprint is a sprint in which designers, back-end developers, and front-end developers gather to experience collaboration and develop an MVP over a short period of 6 days. 
+
+
 ## 🧾 Study
 
 ### [Frontend Article Study](https://github.com/frontend-article-study)
@@ -47,7 +63,7 @@ This study started in March 2024 and focuses on learning challenging or easily o
 
 ## ✍️ [Tech Blog](https://xionwcfm.tistory.com)
 
-I run a tech blog that has accumulated 100,000 visitors with an average of 500 daily visitors. 
+I run a tech blog that has accumulated **110,000 visitors** with an **average of 500** daily visitors. 
 
 Below is a collection of articles from my tech blog that I love or that have received a lot of love.
 
@@ -66,7 +82,6 @@ I enjoy working with frontend development productivity tools. Below is a list of
 - **Styling:**  I am a fervent fan of the utility-first philosophy of ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) I love the TailwindCSS ecosystem and have even tried building my own design tokens and TailwindCSS plugins.
 - **Build Tools & Package Managers:** I prefer ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) but am not limited to any specific package manager. My choice of build tool is centered around performance and developer experience. I use  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) ![esbuild](https://img.shields.io/badge/esbuild-FFD43B?style=for-the-badge&logo=esbuild&logoColor=black)
 
-[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXionWCFM%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) Celebrating every interaction on my profile!
 
 ---
 
