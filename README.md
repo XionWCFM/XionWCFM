@@ -13,16 +13,6 @@ please feel free to email me at giljongyudev@gmail.com. You're welcome anytime.
 
 ---
 
-## 💼 Career
-
-### [QuokkaCrew](https://yeonpick.kr)
-
-I work as a frontend developer at a company called Quokka Crew. I am currently developing an application called Yeonpick, which can be checked at [here](https://yeonpick.kr). In this application, I am responsible for developing the webview part and the project is made up of Next.js, TypeScript, and Yarn Berry.
-
-At this place, I have been tasked with optimizing CI/CD times, developing common components, minimizing build times, logging user actions, developing numerous features, and improving performance.
-
----
-
 ## 🚀 Projects
 
 ### [XionHub Project](https://github.com/xionhub/xion)
@@ -82,6 +72,16 @@ I enjoy working with frontend development productivity tools. Below is a list of
 - **Styling:**  I am a fervent fan of the utility-first philosophy of ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) I love the TailwindCSS ecosystem and have even tried building my own design tokens and TailwindCSS plugins.
 - **Build Tools & Package Managers:** I prefer ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) but am not limited to any specific package manager. My choice of build tool is centered around performance and developer experience. I use  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) ![esbuild](https://img.shields.io/badge/esbuild-FFD43B?style=for-the-badge&logo=esbuild&logoColor=black)
 
+
+---
+
+## 💼 Career
+
+### [QuokkaCrew](https://yeonpick.kr)
+
+I work as a frontend developer at a company called Quokka Crew. I am currently developing an application called Yeonpick, which can be checked at [here](https://yeonpick.kr). In this application, I am responsible for developing the webview part and the project is made up of Next.js, TypeScript, and Yarn Berry.
+
+At this place, I have been tasked with optimizing CI/CD times, developing common components, minimizing build times, logging user actions, developing numerous features, and improving performance.
 
 ---
 
