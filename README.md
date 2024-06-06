@@ -1,8 +1,14 @@
 [![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXionWCFM%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/XionWCFM?pet-id=1" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/XionWCFM?pet-id=586576705022680704"
+    width="600"
+    height="240"
+  />
 </a>
+  
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/XionWCFM"/>
