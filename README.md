@@ -48,16 +48,12 @@ This project is organized as a monorepo and provides all the shared configs and 
 
 Theo's Sprint is a sprint in which designers, back-end developers, and front-end developers gather to experience collaboration and develop an MVP over a short period of 6 days. 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/XionWCFM?pet-id=586576705022680704"
-    width="600"
-    height="240"
-  />
-</a>
-  
+
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/XionWCFM"/>
+<img
+  src="https://render.gitanimals.org/farms/XionWCFM"
+  width="600"
+  height="300"
+/>
 </a>
-
