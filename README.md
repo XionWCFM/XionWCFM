@@ -28,32 +28,6 @@ I look forward to connecting with like-minded individuals and exploring the endl
 
 ---
 
-## 🚀 Projects
-
-### [XionHub Project](https://github.com/xionhub/xion)
-
-Xionhub is my most beloved project.🥰 
-
-This project is organized as a monorepo and provides all the shared configs and plugins for eslint, prettier, TypeScript, which I frequently use, along with utility functions. Additionally, you can find the design tokens I built myself and the React component design system based on them.
-
-### [@xionhub/fsd-prettier](https://github.com/xionhub/fsd-prettier)
-
-🍰Feature sliced design prettier shared configuration
-
-@xionhub/fsd-prettier is a library I created that can be usefully used in projects that comply with Feature-Sliced ​​design.
-
-## 🏅 ETC
-
-### [Teo's Sprint 17 Team 10](https://xionwcfm.tistory.com/454)
-
-Theo's Sprint is a sprint in which designers, back-end developers, and front-end developers gather to experience collaboration and develop an MVP over a short period of 6 days. 
 
 
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/XionWCFM"
-  width="600"
-  height="300"
-/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=XionWCFM&theme=tokyonight-duo)](https://git.io/streak-stats)
